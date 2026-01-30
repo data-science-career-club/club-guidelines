@@ -3,7 +3,7 @@ GITHUB ORGANIZATION RULES
 
 1. This organization is strictly for official club and placement-related work.
 
-2. Every member must follow proper GitHub discipline.
+2. Every member must follow proper GitHub discipline:
    - Meaningful commit messages are mandatory.
    - Random or unnecessary commits are not allowed.
 
