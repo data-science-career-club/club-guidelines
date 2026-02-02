@@ -3,7 +3,7 @@
 Welcome to the **Data Science Career Club** official repository.
 
 This repository contains the **club rules and repository naming guidelines**.  
-Before making any commits or creating new repos, **please read the rules carefully**.
+Before making any commits or creating new repos, **please read the rules carefully**..
 
 ---
 
